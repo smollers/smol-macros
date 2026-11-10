@@ -1,7 +1,15 @@
-# smol-macros
-![Downloads](https://img.shields.io/github/downloads/smollers/smol-macros/total)
+# Index
+[OUTSKIRTS](https://github.com/smollers/smol-macros/releases/tag/outskirts) (NO BLOOD AWAKENED)
 
-I'll upload any new macro here
+
+
+
+
+
+
+
+
+![Downloads](https://img.shields.io/github/downloads/smollers/smol-macros/total)
 
 ## [OUTSKIRTS](https://github.com/smollers/smol-macros/releases/tag/outskirts)
 ### Features:
