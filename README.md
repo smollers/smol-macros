@@ -5,10 +5,13 @@ I'll upload any new macro here
 
 ## [OUTSKIRTS](https://github.com/smollers/smol-macros/releases/tag/outskirts)
 ### Features:
-1: You can start at the end screen or when u spawn in, they both work and it will detect where u are
-2: Auto detects if the run is stuck and kills itself without wasting more time
-3: it uses image and pixel detection, it is way more consistent and don't worry about being grabbed, it detects it
-4: i actually went crazy on ts if u find any probelm where u die TAKE A SCREENSHOT OF THE END SCREEN AND DM ME
+- You can start at the end screen or when u spawn in
+> they both work and it will detect where u are
+
+- Auto detects if the run is stuck and kills itself without wasting more time
+
+- it uses image and pixel detection 
+> it is way more consistent and don't worry about being grabbed, it detects it
 
 ### Requirements:
 - Fritz
@@ -33,3 +36,4 @@ Perks: Founders/Avatar of Ymir, Kengo/Godforged, Adaptation, Soulfeed, Invincibl
 ### Video of it in action:
 (soon)
 (just start it when u spawn in or when u are in the end screen, it detects and both will work)
+(i actually went crazy on ts if u find any probelm where u die TAKE A SCREENSHOT OF THE END SCREEN AND DM ME)
