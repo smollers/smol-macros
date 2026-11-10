@@ -31,6 +31,7 @@
 - 1920x1080p
 - 100% Scaling
 - game graphics: 4
+- Full screen
 - No Shiftlock
 
 ### Memories:
