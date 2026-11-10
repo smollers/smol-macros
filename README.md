@@ -45,3 +45,4 @@ Perks: Founders/Avatar of Ymir, Kengo/Godforged, Adaptation, Soulfeed, Invincibl
 (soon)
 (just start it when u spawn in or when u are in the end screen, it detects and both will work)
 (i actually went crazy on ts if u find any probelm where u die TAKE A SCREENSHOT OF THE END SCREEN AND DM ME)
+This took a whole make to make and a lot of retries and deaths....
