@@ -27,6 +27,7 @@
 - Crown or anything with TS dmg
 - Resonance for col (You can tweak it to work without)
 - 1920x1080p
+- 100% Scaling
 
 ### Memories:
 - Apotheosis (important)
