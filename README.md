@@ -13,7 +13,7 @@ I'll upload any new macro here
 - it uses image and pixel detection 
 > it is way more consistent and don't worry about being grabbed, it detects it
 
-### Requirements:
+## Requirements:
 - Fritz
 - Scorched cloak TS dmg
 - Crown or anything with TS dmg
