@@ -32,10 +32,14 @@
 - Apotheosis (important)
 - supernova (better consistency/winrate)
 
-
 ### Loadout & Tree
-Tree: Right, Right, Right
-Perks: Founders/Avatar of Ymir, Kengo/Godforged, Adaptation, Soulfeed, Invincible (no injuries), FOI
+- **Tree:**
+Right, Right, Right
+
+- Perks: 
+**Founders/Avatar of Ymir, Kengo/Godforged, Adaptation, Soulfeed, Invincible (no injuries), FOI**
+-----------------------
+
 > Notes: Just try to get the highest TS damage and Awk bar gain as possible, the higher the more consistent it will be
 > - It will make barely any/no mistakes at all since it goes by with image and pixel detection
 > - If you get godforged or ymir, i believe the winrate will be very clsoe to 100%
