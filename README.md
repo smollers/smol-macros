@@ -18,8 +18,10 @@
 
 - Auto detects if the run is stuck and kills itself without wasting more time
 
-- it uses image and pixel detection 
+- it uses image and pixel detection
 > it is way more consistent and don't worry about being grabbed, it detects it
+
+> *please report any issues or bugs in [here](https://github.com/smollers/smol-macros/issues)*
 
 ## Requirements:
 - Fritz
@@ -28,6 +30,8 @@
 - Resonance for col (You can tweak it to work without)
 - 1920x1080p
 - 100% Scaling
+- game graphics: 4
+- No Shiftlock
 
 ### Memories:
 - Apotheosis (important)
@@ -35,7 +39,7 @@
 
 ### Loadout & Tree
 - **Tree:**
-Right, Right, Right
+Right, Right, Right (before the syringe by two)
 
 - Perks: 
 **Founders/Avatar of Ymir, Kengo/Godforged, Adaptation, Soulfeed, Invincible (no injuries), FOI**
