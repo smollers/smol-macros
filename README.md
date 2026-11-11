@@ -1,6 +1,6 @@
 # Index
 [OUTSKIRTS](https://github.com/smollers/smol-macros/releases/tag/outskirts) (NO BLOOD AWAKENED)
-
+FIXED!!!!
 
 
 
