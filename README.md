@@ -11,7 +11,7 @@ FIXED!!!!
 
 ![Downloads](https://img.shields.io/github/downloads/smollers/smol-macros/total)
 
-## [OUTSKIRTS](https://github.com/smollers/smol-macros/releases/tag/outskirts)
+## [OUTSKIRTS](https://github.com/smollers/smol-macros/releases/download/v3.0/smolskirts.v3.0.Release.luvmacro)
 ### Features:
 - You can start at the end screen or when u spawn in
 > they both work and it will detect where u are
