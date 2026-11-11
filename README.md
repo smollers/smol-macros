@@ -1,5 +1,5 @@
 # Index
-[OUTSKIRTS](https://github.com/smollers/smol-macros/releases/tag/outskirts) (NO BLOOD AWAKENED)
+[OUTSKIRTS](https://img.shields.io/github/downloads/smollers/smol-macros/total) (NO BLOOD AWAKENED)
 FIXED!!!!
 
 
